@@ -7,20 +7,24 @@
 
 # Glyphwald
 
-Glyphwald is a **React + ShadCN** UI component library designed to streamline development with **Vite**, **TypeScript**, and **Tailwind CSS**. Built and maintained by **Structured Labs**, it provides customizable UI components for modern web applications.
+Glyphwald is a **React + ShadCN** UI component library designed to streamline development with **Vite**, **TypeScript**, and **Tailwind CSS**. Built and maintained by [Structured Labs](https://structuredlabs.com/) and used for designing [Preswald](https://www.preswald.com/), it provides customizable UI components for modern web applications.
+
+## Package
+
+[npm package](https://www.npmjs.com/package/glyphwald)
 
 ## Installation
 
 Install Glyphwald via npm:
 
 ```sh
-npm install @structuredlabs/glyphwald
+npm i glyphwald
 ```
 
 Or with Yarn:
 
 ```sh
-yarn add @structuredlabs/glyphwald
+yarn add glyphwald
 ```
 
 ## Usage
@@ -28,7 +32,7 @@ yarn add @structuredlabs/glyphwald
 Import and use components in your project:
 
 ```tsx
-import { Button } from "@structuredlabs/glyphwald";
+import { Button } from "glyphwald";
 
 export default function App() {
   return (
@@ -78,7 +82,7 @@ Glyphwald relies on **Tailwind CSS**. Ensure your project has it configured.
 To update Glyphwald to the latest version:
 
 ```sh
-npm update @structuredlabs/glyphwald
+npm update glyphwald
 ```
 
 # Storybook
