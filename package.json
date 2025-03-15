@@ -1,6 +1,5 @@
 {
-  "name": "my-app",
-  "private": true,
+  "name": "glyphwald",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
