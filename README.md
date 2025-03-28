@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StructuredLabs/.github/main/profile/Banner.png" alt="Logo">
+  <img src="https://raw.githubusercontent.com/StructuredLabs/.github/main/GlyphwaldBanner.png" alt="Logo">
 </p>
 
 <br>
