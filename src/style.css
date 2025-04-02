@@ -1,0 +1,5 @@
+@import './index.css';
+
+/* This file serves as the main entry point for styles.
+   When users import 'glyphwald/style.css',
+   they'll get all the necessary styles for the components. */

@@ -1,0 +1,37 @@
+# Source files
+src/
+public/
+
+# Build tools and config
+.storybook/
+tsconfig*.json
+vite.config.ts
+tsup.config.ts
+tailwind.config.js
+postcss.config.js
+eslint.config.js
+vitest.workspace.ts
+components.json
+
+# Development files
+.git/
+.gitignore
+node_modules/
+*.log
+index.html
+
+# Testing
+tests/
+**/*.test.*
+coverage/
+
+# CI/CD
+.github/
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo 
+glyphwald-*.tgz
